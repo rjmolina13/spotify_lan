@@ -1,4 +1,4 @@
-const APP_VERSION = 'v2';
+const APP_VERSION = 'v2.5';
 
 // Theme management
 document.addEventListener('DOMContentLoaded', () => {

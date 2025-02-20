@@ -8,7 +8,7 @@ import threading
 import time
 import sys
 
-VERSION = "v2"
+VERSION = "v2.5"
 
 # Check and load environment variables
 def check_env_setup():
@@ -291,7 +291,7 @@ def print_header():
         |_|                    |___/                                               |___/             
 \033[0m
 \033[1;35m=================================================================================================\033[0m
-                    \033[1;32mspotify_lan\033[0m \033[1;36m{VERSION}\033[0m  \033[1;33m(c) 2025\033[0m | \033[1;34m@rjmolina13\033[0m
+                \033[1;32mspotify_lan\033[0m \033[1;36m{VERSION}\033[0m  \033[1;33m(c) 2025\033[0m | \033[1;34m@rjmolina13\033[0m
 \033[1;35m--------------------------------------------------------------------------------------------------\033[0m
 '''
     print(header)
