@@ -11,6 +11,16 @@ A collaborative Spotify controller that lets everyone in your local network cont
 - 🌓 Dark/Light mode support
 - 🎨 Modern, responsive UI
 
+## 💡 Use Case
+
+- Only requires one Spotify Premium account (connected to main speaker)
+- Alternative to Spotify Jam - no need for guests to have Spotify accounts
+- Anyone in the local network can control music through web interface
+- Perfect for:
+  - Office music control
+  - Party DJ collaboration
+  - Group listening sessions
+
 ## 🚀 Getting Started
 
 ### Prerequisites
